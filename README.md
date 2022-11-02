@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Back-end web development and GCP services
 - 📫 How to reach me: [Linked In - Vamsi Krishna](https://www.linkedin.com/in/vamsi-krishna-25621a172/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I create memes when I feel upset.
+- ⚡ Fun fact: I create memes when I got my free time.
 
 
 
