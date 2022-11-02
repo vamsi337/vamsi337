@@ -1,7 +1,6 @@
 ### Hi, I am Vamsi Krishna👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Node.js Backend development
 - 🌱 I’m currently learning Google Cloud Devops Engineer certification
