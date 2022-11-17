@@ -2,11 +2,10 @@
 
 
 
-- 🔭 I’m currently working on Node.js Backend development
-- 🌱 I’m currently learning Google Cloud Devops Engineer certification
+- 🔭 I’m currently working as a GCP Data Engineer
+- 🌱 I’m currently learning Google Cloud Data Engineer certification
 - 👯 I’m looking to collaborate on LinkedIn
-- 🤔 I’m looking for help with learning AngularJs
-- 💬 Ask me about Back-end web development and GCP services
+- 💬 Certified Google Cloud Associate Cloud Engineer
 - 📫 How to reach me: [Linked In - Vamsi Krishna](https://www.linkedin.com/in/vamsi-krishna-25621a172/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I create memes when I got my free time.
