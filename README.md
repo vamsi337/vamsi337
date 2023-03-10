@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working as a GCP Data Engineer
-- 🌱 I’m currently learning Google Cloud Data Engineer certification
+- 🔭 I’m currently working as a Back-End Developer (Javascript, Node.js)
+- 🌱 I’m currently learning Google Cloud Developer Certification
 - 👯 I’m looking to collaborate on LinkedIn
 - 💬 Certified Google Cloud Associate Cloud Engineer
 - 📫 How to reach me: [Linked In - Vamsi Krishna](https://www.linkedin.com/in/vamsi-krishna-25621a172/)
