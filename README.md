@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working as a Back-End Developer (Node.js)
-- 🌱 I’m currently enhancing my knowledge on back-end development and simulateously improving command over DS & Algo, System Design and Core CS Fundamentals
+- 🌱 I’m currently enhancing my knowledge on TypeScript, front-end tech stack and simulateously improving command over DS & Algo, System Design and Core CS Fundamentals
 - 👯 I’m looking to collaborate on LinkedIn
 - 💬 Certified Google Cloud Associate Cloud Engineer
 - 📫 How to reach me: [Linked In - Vamsi Krishna](https://www.linkedin.com/in/vamsi-krishna-25621a172/)
