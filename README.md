@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working as a Back-End Developer (Node.js)
-- 🌱 I’m currently enhancing my knowledge on TypeScript, front-end tech stack and simulateously improving command over DS & Algo, System Design and Core CS Fundamentals
+- 🔭 Worked as a web developer in TCS and Capgemini with 3 years of work experience
+- 🌱 Aspiring Full Stack web developer freelancer
 - 👯 I’m looking to collaborate on LinkedIn
 - 💬 Certified Google Cloud Associate Cloud Engineer
 - 📫 How to reach me: [Linked In - Vamsi Krishna](https://www.linkedin.com/in/vamsi-krishna-25621a172/)
